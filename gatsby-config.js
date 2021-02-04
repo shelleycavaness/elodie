@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/elodie/public`,
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
